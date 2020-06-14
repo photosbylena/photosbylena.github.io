@@ -8,7 +8,7 @@ body, html{
 }
 h1{
   text-align: center;
-  font-size: 45px;
+  font-size: 35px;
   color:white;
 }
 .container-all{
@@ -71,7 +71,7 @@ img{
   margin-right: -50%;
   transition-duration: .3s;
   transform: translate(-50%, -50%);
-  font-size: 30px;
+  font-size: 25px;
 }
 .container:hover img{
   transform: scale(1.2);
@@ -96,7 +96,7 @@ img{
     }
 }
 .center {
-  width: 25%; 
+  width: 20%; 
   position: absolute;
     top: 50%;
     left: 50%;
@@ -107,5 +107,5 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100px;    
+  height: 10%;    
   }
