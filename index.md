@@ -27,7 +27,7 @@
 </div>
 
 <div class="container">
-  <a href="water.html"><img src="photos\water.jpg" alt=""></a>
+  <a href="fire.html"><img src="photos\fire.jpg" alt=""></a>
    <span class="title">Fire-test</span>
   <span class="text">Fire is associated with power, heat, energy, assertiveness and passion. Fire has many uses and has been an important part in the development of human civilization. It can create as well as destroy. That applies to all elements of nature.</span>
 </div>
