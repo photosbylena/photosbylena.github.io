@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
   <header>
+    <link rel="stylesheet" href="css\index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Final Photo Project</title>
   </header>
 
 <body>
-  <link rel="stylesheet" href="css\index.css">
-<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"> 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 
 <div class="container-all">
 <div class="container">
