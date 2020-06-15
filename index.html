@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<head>
-  <title>Final Photo Project/title>
-<link rel="stylesheet" href="css\index.css">
+<html>
+  <header>
+    <title>Final Photo Project</title>
+  </header>
+
+<body>
+  <link rel="stylesheet" href="css\index.css">
 <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
 
 <div class="container-all">
-
 <div class="container">
   <a href="air.html"><img src="photos\air.jpg" alt=""></a>
    <span class="title">Air</span>
@@ -32,7 +33,7 @@
 <div class="center">
   <h1>Natural Elements <br>by Magdalena Zajaczkowska</h1>
 </div> 
-
 </div>
+
 </body>
 </html>
